@@ -1,0 +1,2 @@
+test d'ecriture d'un fichier dans le cache
+
